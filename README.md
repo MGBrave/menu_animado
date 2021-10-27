@@ -1,1 +1,1 @@
-# Menu Login/Entrar animado
+# Menu Login/Inscrever-se animado
